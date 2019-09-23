@@ -1,0 +1,38 @@
+input
+{
+	width: 300px;
+	height: 30px;
+	border-radius: 10px;
+}
+.container{
+	margin-left:35%;
+  /* border: 1px solid #42464b; */
+  border: none;
+  border-radius: 6px;
+  font-style:oblique;
+//background: #f74639; 
+background-image:url("online.jpg");
+ 
+  margin-top:-1%;
+  color: white;
+	
+}
+.para
+{
+	
+	padding: 10px;
+	color: red;
+	font-size: 30px;
+	font-family: arial;
+	text-decoration: none;
+}
+
+.b
+{
+	margin-left:100px;
+	height: 30px;
+	width: 250px;
+	border-radius: 2px;
+	color: white;
+	background-color: green;
+}

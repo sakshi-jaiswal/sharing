@@ -1,0 +1,86 @@
+header
+{
+	height:100px;
+	background-color: purple;
+	width: 100%;
+}
+.a
+{
+	text-decoration:none;
+	color: white;
+	float: right;
+	padding: 40px 70px 30px ;
+}
+.logo
+{
+	float:left;
+	height: 50px;
+	width: 150px;
+	padding: 20px 0px 10px 40px;
+}
+footer
+{
+	height: 100px;
+	background-color: gray;
+	width: 100%;
+	bottom:-150px;
+	position: absolute;
+	
+}
+.p
+{
+	color: white;
+	float: right;
+	padding: 20px 20px 20px 0px;
+}
+.div
+{
+	height: 250px;
+	width: 100%;
+	//border: 1px solid black;
+	
+}
+.div1
+{
+	height: 300px;
+	width: 50%;
+	//border: 1px solid black;
+	float: left;
+	//background-color: pink;
+	background-image: url("online.jpg");
+}
+.div2
+{
+	height: 300px;
+	width: 49.5%;
+	//border: 1px solid black;
+	float: left;
+	//background-color: pink;
+	background-image: url("online.jpg");
+}
+.img
+{
+	width: 100%;
+	height: 250px;
+}
+.img1
+{
+	padding-top:40px;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 150px;
+  width: 200px;
+}
+.button{
+	
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 80px;
+  width: 200px;
+  background-color: green;
+  color: white;
+}
+.body
+{ooverflow: scroll;}
